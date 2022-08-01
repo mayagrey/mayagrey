@@ -1,0 +1,4 @@
+- 👋 ola meu nome é riana
+- 👀 meu email de contato é riana.lima@escola.pr.gov.br
+- 🌱 eu estou interessadea em aprender novas linguagems 
+- 💞️ eu estou aprendendo a progamar resentimente o javaScript e Scratch
